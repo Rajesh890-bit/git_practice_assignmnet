@@ -6,9 +6,9 @@ function prime(num) {
     }
   }
   if (factor == 2) {
-    return false;
-  } else {
     return true;
+  } else {
+    return false;
   }
 }
 
